@@ -1,0 +1,22 @@
+# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Common temp files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# CMake / build folders (if you add later)
+build/
+cmake-build-*/
